@@ -8,7 +8,7 @@
             "name": "(Windows)helloworld",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/samples/0.helloworld/debug/helloworld.exe",
+            "program": "${workspaceFolder}/bin/Windows_64_Debug/helloworld.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
